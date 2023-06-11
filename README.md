@@ -26,3 +26,6 @@ It is a C/C++ library for dealing with ML contralibility and performance issues.
 ## Goals with that
 to understand what happens at low level just above boundary of hardware interface.
 understanding processor architecture currently CPU and nvidia GPU.
+
+## Notes
+cuda functions doesnt run without NVCC + VISUAL STUDIO
