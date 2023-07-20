@@ -23,6 +23,9 @@ It is a C/C++ library for dealing with ML contralibility and performance issues.
 
 ```
 
+## inspiration
+to replicate awesome JAX engine.like autogram vmap, pmap etc with high perfomance. 
+
 ## Goals with that
 to understand what happens at low level just above boundary of hardware interface.
 understanding processor architecture currently CPU and nvidia GPU.
